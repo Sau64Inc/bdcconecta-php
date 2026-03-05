@@ -1,5 +1,5 @@
 {
-    "name": "bdcconecta/php-sdk",
+    "name": "sau64inc/bdcconecta-php",
     "description": "PHP SDK para BDC Conecta Banking API",
     "type": "library",
     "license": "MIT",
